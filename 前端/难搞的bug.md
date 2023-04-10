@@ -32,3 +32,5 @@ vue根目录下的 .eslintrc.js 文件 rules 添加
 ```
 删掉“.git”目录，重新进行conmmit 
 ```
+
+更新一点东西
