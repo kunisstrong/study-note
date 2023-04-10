@@ -43,5 +43,3 @@
 ### 显示器支架
 
 1. 松能T7
-
-{"sensor_1":[{"dictName":"井队号","dictNumber":"jdh","dictSort":1,"dictType":1,"dictValue":"作101队","id":1,"readType":1,"updateTime":"2023-04-09 15:42:24","updateUsername":"admin"},{"dictName":"井号","dictNumber":"jh","dictSort":2,"dictType":1,"dictValue":"永210-平61","id":2,"readType":1,"updateTime":"2023-04-09 15:42:24","updateUsername":"admin"}]}

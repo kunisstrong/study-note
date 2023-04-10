@@ -1,5 +1,15 @@
 # 初识MySQL
 
+E:\mysql\mysql-8.0.32-winx64\bin>mysqld --initialize --console
+2023-04-10T08:31:28.151539Z 0 [Warning] [MY-010918] [Server] 'default_authentication_plugin' is deprecated and will be removed in a future release. Please use authentication_policy instead.
+2023-04-10T08:31:28.151564Z 0 [System] [MY-013169] [Server] E:\mysql\mysql-8.0.32-winx64\bin\mysqld.exe (mysqld 8.0.32) initializing of server in progress as process 10568
+2023-04-10T08:31:28.152979Z 0 [Warning] [MY-013242] [Server] --character-set-server: 'utf8' is currently an alias for the character set UTF8MB3, but will be an alias for UTF8MB4 in a future release. Please consider using UTF8MB4 in order to be unambiguous.
+2023-04-10T08:31:28.167506Z 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
+2023-04-10T08:31:28.482455Z 1 [System] [MY-013577] [InnoDB] InnoDB initialization has ended.
+2023-04-10T08:31:29.444147Z 6 [Note] [MY-010454] [Server] A temporary password is generated for root@localhost: efM<LThYN6Ho
+
+
+
 ### 安装
 
 1. 官网安装对应版本mySQL
